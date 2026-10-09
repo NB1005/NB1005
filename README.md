@@ -1,6 +1,7 @@
-## **Hi 👋 — I’m a Financce & Operations Strategist who turns messy data into executive-ready decisions.**
+## **Hi 👋 — I’m a Finance & Operations Strategist who turns messy data into executive-ready decisions.**
 
 I build dynamic models, quantify opportunities, and translate analysis into clear actions across Pricing, Forecasting, and Operations. Explore my repositories. You’ll find clean documented readme notes covering problems I’ve helped my orgs solve and the measurable business impact. 
+
 
 
 ## Highlights ⚡
