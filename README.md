@@ -3,9 +3,9 @@
 I build dynamic models, quantify opportunities, and translate analysis into clear actions across Pricing, Forecasting, and Operations. Explore my repositories. You’ll find clean documented readme notes covering problems I’ve helped my orgs solve and the measurable business impact. 
 
 
-⚡## Highlights
+## Highlights ⚡
 
-🟩 ### Pricing “Quad” Analysis — $58M opportunity + 38% factory efficiency lift
+### Pricing “Quad” Analysis — $58M opportunity + 38% factory efficiency lift 🟩 
 
 - Built a structured pricing framework to isolate revenue, mix, cost, and capacity drivers across product/customer segments
 - Identified **$58M+** in opportunities through price/pack architecture, discount governance, and segment-level elasticity signals
