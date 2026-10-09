@@ -2,7 +2,6 @@
 
 I build dynamic models, quantify opportunities, and translate analysis into clear actions across Pricing, Forecasting, and Operations. Explore my repositories. You’ll find clean documented readme notes covering problems I’ve helped my orgs solve and the measurable business impact. 
 
-<!--
 
 ## ⚡Highlights
 
@@ -56,4 +55,3 @@ Templates are designed to be **fast to audit** and **easy to extend**.
 3. **Explore:** other repositories for reusable frameworks and sample outputs
 
 Enjoy!!
--->
