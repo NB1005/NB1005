@@ -45,8 +45,7 @@ Templates are designed to be **fast to audit** and **easy to extend**.
 
 - Financial modeling (scenario planning, pricing analytics, program financial management)
 - Excel / Google Sheets
-- SQL + data analysis (extract, validate, reconcile)
-- Python (pandas, data cleaning)
+- Data analysis (extract, validate, reconcile)
 - BI & storytelling (executive summaries, charts, decision memos)
 
 ### Portfolio navigation (quick start)
