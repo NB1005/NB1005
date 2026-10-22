@@ -14,10 +14,10 @@ I build dynamic models, quantify opportunities, and translate analysis into clea
 
 **Repo:** `Picing-Quad-Qnalysis/`
 
-### R&D Spend Efficiency — $80M inefficient spend identified 💵 
+### R&D Spend Efficiency — $47M inefficient spend identified 💵 
 
 - Created a spend-to-value model to map R&D investments to portfolio priorities that enables objective and subjective review
-- Flagged **$80M+** in inefficient spend through variance analysis and prioritization scoring
+- Flagged **$40M+** in inefficient spend through variance analysis and prioritization scoring
 
 **Repo:** `R-D-Quad-Analysis/`
 
