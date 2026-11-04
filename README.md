@@ -6,18 +6,18 @@ I build dynamic models, quantify opportunities, and translate analysis into clea
 
 ## Highlights ⚡
 
-### Pricing “Quad” Analysis — $58M opportunity + 38% factory efficiency lift 🟩 
+### Pricing “Quad” Analysis — Supported our FY2025 3.2% YoY revenue growth 🟩 
 
 - Built a structured pricing framework to isolate revenue, mix, cost, and capacity drivers across product/customer segments
-- Identified **$58M+** in opportunities through price/pack architecture, discount governance, and segment-level elasticity signals
-- Connected pricing actions to operations constraints; recommendations contributed to a **38% increase in factory efficiency**
+- Identified opportunities through margin analysis and discount governance
+- Connected pricing actions to operations constraints; recommendations contributed to a Product offering simplification
 
 **Repo:** `Picing-Quad-Qnalysis/`
 
 ### R&D Spend Efficiency — $47M inefficient spend identified 💵 
 
 - Created a spend-to-value model to map R&D investments to portfolio priorities that enables objective and subjective review
-- Flagged **$40M+** in inefficient spend through variance analysis and prioritization scoring
+- Flagged **$47M** in inefficient spend through variance analysis and prioritization scoring
 
 **Repo:** `R-D-Quad-Analysis/`
 
