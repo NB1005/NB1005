@@ -39,7 +39,8 @@ Templates are designed to be **fast to audit** and **easy to extend**.
 
 - Natalia, can you help me…?
 - Build a dynamic model that projects XYZ over the next X years.
-- Where are we efficient vs inefficient in…?
+- How can I optimize my budget?
+- Should I invest or divest?
 
 ## Technical toolkit 🛠️
 
